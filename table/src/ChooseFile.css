@@ -1,0 +1,46 @@
+.input-container {
+    padding: 20px;
+    border: 1px solid rgb(1, 19, 43);
+    margin: 60px 40px 60px 40px;
+    background-color: #a9adb8;
+}
+
+.input-group {
+    padding-top: 10px;
+    width: 75vw;
+    margin: auto
+}
+
+.btn-outline-secondary {
+    color: #f8f9fa;
+    background-color: #17a2b8;
+    background-image: none;
+    border-color: #000407;
+}
+
+.input-group-choose {
+    padding-top: 50px;
+    width: 75vw;
+    margin: auto
+}
+
+.choice {
+    padding-top: 40px;
+    display: flex;
+    justify-content: center;
+}
+
+.main-container {
+    margin-top: 10px;
+    margin-left: 30px;
+    
+
+}
+.custom-file-input{
+    color: #299713;
+}
+.table{
+    background-color: #e9d7d7;
+    border: 1px solid rgb(106, 173, 162);
+}
+
